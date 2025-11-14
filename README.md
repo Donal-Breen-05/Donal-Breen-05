@@ -21,6 +21,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Donal-Breen-05&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## How to Contact Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donal-breen-4aa671347/)
 
